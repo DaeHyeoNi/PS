@@ -6,8 +6,9 @@ def check(num: str):
         return "yes"
     return "no"
 
+
 while True:
     num = input()
-    if num == '0':
+    if num == "0":
         break
     print(check(num))

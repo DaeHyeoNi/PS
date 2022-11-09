@@ -1,23 +1,23 @@
 white_board = [
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
 ]
 
 black_board = [
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
-    'BWBWBWBW',
-    'WBWBWBWB',
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
+    "BWBWBWBW",
+    "WBWBWBWB",
 ]
 
 
