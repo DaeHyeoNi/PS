@@ -10,7 +10,20 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["<", "input.txt", ">", "output.txt" ],
+            "justMyCode": true
+        },
+        {
+            "name": "Python: 현재 파일 by file",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": [
+                "<",
+                "input.txt",
+                ">",
+                "output.txt"
+            ],
             "justMyCode": true
         }
     ]
