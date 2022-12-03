@@ -7,6 +7,7 @@ input = sys.stdin.readline
 # 10845_큐.py 에서 만들어둔 구조를 재활용이 가능해서
 # 푸는데 20초 밖에 걸리지 않았다 .. ㅋㅋ
 
+
 def _push(number: int) -> None:
     queue.append(number)
 
