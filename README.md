@@ -7,7 +7,7 @@ Language: Python3
 [PEP 8](https://peps.python.org/pep-0008/) and Maximum line length is 120
 
 ### Automatically format and lint code with [pre-commit](https://pre-commit.com/)
-Q: Why use it?
+Q: Why use it? <br />
 A: pre-commit hook scripts are useful for identifying simple problems before pushing code.
 
 ```
