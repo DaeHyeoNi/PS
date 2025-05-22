@@ -1,0 +1,10 @@
+[project]
+name = "ps"
+version = "0.1.0"
+description = "Problem Solving"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "black>=25.1.0",
+    "pre-commit>=4.2.0",
+]
